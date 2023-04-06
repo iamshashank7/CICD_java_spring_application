@@ -1,1 +1,0 @@
-# CICD_java_spring_application
